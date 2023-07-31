@@ -1,0 +1,279 @@
+$name : Genitalia Generator
+$author : Poplar
+$description : mostly for penises
+$amount : 1
+$button : Arouse!
+
+//http://orteil.dashnet.org/randomgen/?gen=ZMri6t95
+
+$name
+entity's {5%}
+alien's
+creature's
+monster's
+animal's
+
+$penis
+penis
+cock
+dick
+phallus
+malehood
+tool
+dong
+
+$size
+miniscule compared {2%}
+tiny compared {5%}
+small compared
+small compared
+[proportional|reasonably  sized compared|medium compared]
+[proportional|reasonably  sized compared|medium compared]
+[big|large] compared
+[big|large] compared
+huge compared
+gigantic compared {10%}
+colossal compared {5%}
+
+$hue
+dark
+light
+neutral
+bright
+sparkling
+shiny
+dull
+glowing
+iridescent
+opalescent
+
+$colour
+red
+red-orange
+orange
+yellow-orange
+yellow
+yellow-green
+green
+blue-green
+blue
+blue-purple
+purple
+red-purple
+pink
+white
+black
+grey
+copper
+gold
+silver
+transparent
+[hue] [colour] {30%}
+[colour], [and slowly blending into|and dappled with|and also covered with|with the [top|bottom] of the [#d] being] [colour] {30%}
+
+$head
+is flared when pleasured, out to about [widem]
+is conical
+is flat
+is boxy
+is round
+is sharp
+is almost [triangular|square|pentagonal|hexagonal]
+has certain [shape] features
+
+$width
+is around [wide,#w] [in width|wide]
+starts at [wide,#w] [in width|wide], [widevar] {35%}
+
+$width1
+is around [widem,#wm] [in width|wide]
+starts at [widem,#wm] [in width|wide], [widevar1]
+
+$widevar
+ then enlarges to [widem]
+ widens to [widem], then returns to [#w] wide
+ and repeatedly changes girth from [#w] to [widem] and back
+
+$widevar1
+ then enlarges to [wide1]
+ widens to [wide1], then returns to [#wm] wide
+ and repeatedly changes girth from [#wm] to [wide1] and back
+
+$wide
+1" (2.5cm) {5%}
+1 1/4" (3.1cm) {7.5%}
+1 1/2" (3.8cm)
+1 3/4" (4.4cm)
+2" (5cm)
+2 1/4" (5.7cm)
+2 1/2" (6.3cm)
+2 3/4" (6.9cm) {7.5%}
+3" (7.6cm) {5%}
+
+$widem
+3" (7.6cm) {5%}
+3 1/4" (8.2cm) {7.5%}
+3 1/2" (8.8cm)
+3 3/4" (9.5cm)
+4" (10.1cm)
+4 1/4" (10.7cm)
+4 1/2" (11.4cm)
+4 3/4" (12cm) {7.5%}
+5" (12.7cm) {5%}
+
+$wide1
+4" (10.1cm) {5%}
+4 1/2" (11.4cm) {7.5%}
+5" (12.7cm)
+5 1/2" (13.9cm)
+6" (15.2cm)
+6 1/2" (16.5cm)
+7" (17.7cm)
+7 1/2" (19cm) {7.5%}
+8" (20.3cm) {5%}
+
+$bump
+knobbles
+nubs
+ridges
+spirals
+bulges
+dimples
+tentacles
+spines
+spikes
+fleshy appendages
+
+$bumps
+, and is [covered [in|with]|partially covered [in|with]|half covered [in|with]|dappled with] [bump]. {40%}
+.
+
+$shape
+canine
+equine
+feline
+elephantine
+phocidine
+delphine
+cetacean
+ursine
+musteline
+cervidine
+reptilian
+crocodilian
+chelonian
+serpentine
+amphibian
+draconic
+selachiin
+molluscal
+crustacean
+amorphous
+plug-like
+conical
+cylindrical
+exotic
+unusual
+strange
+
+$length
+4" (10.1cm) {1%}
+4 1/2" (11.4cm) {2%}
+5" (12.7cm) {3%}
+5 1/2" (13.9cm)
+6" (15.2cm)
+6 1/2" (16.5cm)
+7" (17.7cm)
+7 1/2" (19cm)
+8" (20.3cm)
+8 1/2" (21.5cm)
+9" (22.8cm)
+9 1/2" (24.1cm)
+10" (25.4cm)
+10 1/2" (26.6cm)
+11" (27.9cm) {3%}
+11 1/2" (29.2cm) {2%}
+1' (30.4cm) {1%}
+
+$length1
+1' (30.4cm) {1%}
+1' 2" (35.5cm) {2%}
+1' 4" (40.6cm) {3%}
+1' 6" (45.7cm)
+1' 8" (50.8cm)
+1' 10" (55.8cm)
+2' (60.9cm)
+2' 3" (68.5cm)
+2' 6" (76.2cm)
+2' 9" (83.8cm)
+3 (91.4cm)
+3' 6" (1m 6cm)
+4' (1m 21cm)
+4' 6" (1m 37cm)
+5' (1m 52cm) {3%}
+5' 6" (1m 67cm) {2%}
+6' (1m 82cm) {1%}
+
+$base
+a knot that swells during intercourse or orgasm
+a [long|short] [thin|thick] prehensile tentacle coming from it
+[pseudo]
+a functioning twin [adjacent to|below] it, with these shafts functioning as hemepenes
+a sheath into which it retracts
+a [slit|cloaca] into which it[ and its twin (they are hemipenes)| | | ]retracts
+a vagina nestled [underneath|above] the main shaft (surprise! he's a herm)
+
+$pseudo
+pseudopenes on each side of the shaft, resembling the main shaft except for being [[thinner|thicker]|[longer|shorter]|[thinner|thicker] and [longer|shorter]] than it
+pseudopenes on each side of the shaft, resembling the main shaft except for being [[thinner|thicker]|[longer|shorter]|[thinner|thicker] and [longer|shorter]] than it
+a pseudopenis right next to it (asymmetrically to the [[left|right]|[above|below] it|[above|below] it] which resembles the main shaft except for being [[thinner|thicker]|[longer|shorter]|[thinner|thicker] and [longer|shorter]] than it
+a pseudopenis [above|below] the main shaft, resembling it except for being [[thinner|thicker]|[longer|shorter]|[thinner|thicker] and [longer|shorter]] than it
+a pseudopenis [above|below] the main shaft, resembling it except for being [[thinner|thicker]|[longer|shorter]|[thinner|thicker] and [longer|shorter]] than it
+
+$cum
+[spoo [Csize] loads of sexual fluids|produce [colour],[taste] sexual fluids|orgasm [Csize] loads of [colour],[taste] sexual fluids] {40%}
+[cum|orgasm|spoo|ejaculate|produce] [Csize] off-white loads of semen
+
+$Csize
+large
+big
+sizable
+huge
+average
+tiny
+small
+
+$taste
+ sweet
+ salty {15%}
+ tart
+ bitter {15%}
+ sour {15%}
+ heady
+ thick
+ watery
+ fruity
+[very] [taste] {30%}
+
+$very
+ slightly {12%}
+ very {30%}
+ quite {30%
+ extremely {30%}
+ relatively {12%}
+ not very {12%}
+ mostly {12%}
+ ridiculously {30%}
+ normally {12%}
+ minutely {12%}
+ absolutely {30%}
+
+$short
+. Also, if you're so inclined, his [#d] [tastes [taste]|tastes [taste]|tastes both [taste] and [taste]]. (do not forget to change measurements if unreasonable)
+. Also, if you're so inclined, his [#d] [tastes [taste]|tastes [taste]|tastes both [taste] and [taste]].
+. (do not forget to change measurements if unreasonable)
+.
+
+$gen
+This [name,#c] [penis,#d] is [size] to [the [#c] size|his size], and is [colour] in colour. The head of his [#d] [head][bumps] It is also about [wide] wide. The shaft of his [#d] is[ mostly | mainly | ][shape] in shape[bumps] It also measures around [length] in length, and [width]. The base of his [#d][ has [base][bumps] The base is also| has [base], and [base][bumps] The base is also| is] around [widem] [wide|thick|in girth]. [Upon|After] [pleasuring [him|his [#d]] enough,| [providing|giving him] enough stimulation,] he will [cum][short]
+This large [name,#c] [penis,#d] is [size] to his size, and is [colour] in colour. The head of his [#d] [head][bumps] It is also about [widem] wide. The shaft of his [#d] is[ mostly | mainly | ][shape] in shape[bumps] It also measures around [length1] in length, and [width1]. The base of his [#d][ has [base][bumps] The base is also| has [base], and [base][bumps] The base is also| is] around [wide1] [wide|thick|in girth].  [Upon|After] [pleasuring [him|his [#d]] enough,| [providing|giving him] enough stimulation,] he will [cum][short] {20%}
